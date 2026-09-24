@@ -13,7 +13,7 @@
 
 ---
 
-## What is Transcoder? (plain English)
+## What is Transcoder?
 
 **Transcoder re-encodes videos to HEVC (H.265) at a bitrate you choose** — smaller files, same resolution family, without you fighting ffmpeg by hand.
 
